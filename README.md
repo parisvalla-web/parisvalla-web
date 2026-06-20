@@ -1,9 +1,3 @@
-Paris Valladares Moreira 👋
-
-Country Manager | Sales & Channel Director | CEO
-
-Driving 10x Growth in AI, Cloud & Cybersecurity across Latin America
-
 👨‍💻 Perfil Profesional
 
 Soy un alto ejecutivo con más de 28 años de experiencia en la industria de la tecnología de la información. Mi carrera se ha centrado en combinar estrategias innovadoras, talento y tecnologías de vanguardia para lograr crecimientos sostenidos de doble dígito en mercados complejos de Latinoamérica.
@@ -62,6 +56,14 @@ Country Manager México | Kaspersky Lab 2010 – 2020
 
 Regional Channel Manager | Symantec 2009 – 2010
 
+🎓 Educación & Colaboraciones
+
+🎓 MBA & Bachelor of Business Administration | Atlantic International University
+
+🏛️ Consejos Consultivos: Miembro activo en consejos de ciberseguridad y tecnología de la Guardia Nacional (C4-C5), Tec de Monterrey, UDLAP y UDEM.
+
+🎤 Speaker: Participante constante en la Semana Nacional de Ciberseguridad (SEGOB) y foros de Forbes México.
+
 🎙️ Liderazgo de Opinión y Presencia en Medios
 
 He sido ponente en más de 400 eventos directivos (C-level) y participo activamente en medios:
@@ -71,8 +73,6 @@ He sido ponente en más de 400 eventos directivos (C-level) y participo activame
 💼 Forbes México: Panelista en "Game Changers: A Date with the Future".
 
 🔗 Blockdemy: "¿Por qué a las Fintech les debe importar la Ciberseguridad?"
-
-Consejos Consultivos: Miembro activo en consejos de ciberseguridad y tecnología de la Guardia Nacional (C4-C5), Tec de Monterrey, UDLAP y UDEM. Participante constante en la Semana Nacional de Ciberseguridad (SEGOB).
 
 📫 Conectemos
 
